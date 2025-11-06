@@ -75,6 +75,9 @@ docs/_build/
 .pybuilder/
 target/
 
+# folder
+jen/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
