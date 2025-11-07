@@ -46,23 +46,29 @@ To ensure reliable analysis, the following steps were performed:
 - Some genres consistently yielded **higher financial returns**.
 - Genres with high viewer ratings do **not always** perform best financially.
 ![Top Genres by Average Profit Per Movie](images/genre_avg_profit.png)
+
 ![Top Genres by Mean User Ratings](images/genre_vs_ratings_count.png)
+
 ![Top Genres by Number of Films Produced](images/genre_vs_movie_count.png)
 
 #### 2. Budget vs Revenue
 - Higher budgets **do not guarantee** higher revenue.
+
 ![Budget vs Revenue](images/budget_vs_revenue.png)
 
 #### 3. Runtime vs Ratings
 - Epic length movies (130+ minutes) have the highest average vote rating **suggesting a positive correlation** between runtime and audience ratings.
 ![Rating Distribution by Movie Length](images/rating_by_runtime.png)
+
 ![Average Ratings by Runtime](images/rating_distribution_by_runtime_avg.png)
 
 #### 5. Directors & Writers Successes
 - Directors with a **consistent track record** of profitable films tend to influence a film’s commercial success
 - Some directors have **recognizable creative work** that draw loyal audiences
 - Writers with **successful films** tend to be known for depth and authenticity in scripts which always draw a loyal audience
+
 ![Top Directors by Movie Profit](images/top_directors.png)
+
 ![Top Writers by Movie Profit](images/top_writers.png)
 
 #### 6. Seasonal Impact
@@ -95,12 +101,13 @@ To ensure reliable analysis, the following steps were performed:
 
 [Film Data Report(PDF)](datareport.pdf)
 
-##### Contributors
-View our GitHub Pages site:   
-[Lilibeth Langat][https://github.com/lilibethlangat]
+### Contributors
+View our GitHub Pages site: 
 
-[Jeniffer Mbugua][https://github.com/Jen-shiko]
+[Lilibeth Langat](https://github.com/lilibethlangat)
 
-[Lydia Khisa][https://github.com/klydia22]
+[Jennifer Mbugua](https://github.com/Jen-Shiko)
 
-[Vicky Gakuo][https://github.com/gakuovicky]
+[Vicky Gakuo](https://github.com/gakuovicky)
+
+[Lydia Khisa](https://github.com/klydia22)
