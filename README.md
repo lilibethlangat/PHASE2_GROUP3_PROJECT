@@ -63,7 +63,6 @@ To ensure reliable analysis, the following steps were performed:
 - Some directors have **recognizable creative work** that draw loyal audiences
 - Writers with **successful films** tend to be known for depth and authenticity in scripts which always draw a loyal audience
 ![Top Directors by Movie Profit](images/top_directors.png)
-![Top Directors by Audience Vote Count](images/audience_fave_directors_movies.png)
 ![Top Writers by Movie Profit](images/top_writers.png)
 
 #### 6. Seasonal Impact
@@ -89,13 +88,19 @@ To ensure reliable analysis, the following steps were performed:
 
 ### Appendix
 [Film Impact Presentation Slides (PDF)](Group3_presentation_slides.pdf)
+
 [Film Analysis Notebook](movies.ipynb)
+
 [Film Analysis Notebook(PDF)](movies.pdf)
+
 [Film Data Report(PDF)](datareport.pdf)
 
 ##### Contributors
 View our GitHub Pages site:   
-[Lilibeth Langat]([https://github.com/lilibethlangat])
-[Jeniffer Mbugua]([https://github.com/Jen-shiko])
-[Lydia Khisa]([https://github.com/klydia22])
-[Vicky Gakuo]([https://github.com/gakuovicky])
+[Lilibeth Langat][https://github.com/lilibethlangat]
+
+[Jeniffer Mbugua][https://github.com/Jen-shiko]
+
+[Lydia Khisa][https://github.com/klydia22]
+
+[Vicky Gakuo][https://github.com/gakuovicky]
